@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AryanMurthy
-- 👀 I’m interested in Machine learning and artificial intelligence.
+- 👀 I’m interested in Python and Data.
 - 🌱 I’m currently pursuing computer science engineering
 - 📫 How to reach me: aryanmurthy0672@gmail.com
 - My lnkedIN profile: www.linkedin.com/in/aryanmurthy
